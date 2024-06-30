@@ -1,6 +1,5 @@
 import requests
 
-#list_type: checklist, detallist, fulllist
 def nps_unit_list() -> list:
     '''
     Returns a list of National Park Service (NPS) unit codes.
